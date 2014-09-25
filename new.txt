@@ -6,3 +6,5 @@ new text
 hello world by nakazawa
 hello world by nakazawa
 
+test by Takasugi
+
